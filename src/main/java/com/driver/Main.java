@@ -6,6 +6,7 @@ public class Main {
     } 
   }
   
+  
   public static class B extends A{
     @Override
     public String meth(){ 
