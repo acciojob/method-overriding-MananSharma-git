@@ -19,7 +19,7 @@ public class Main {
     
   }
 
-    public static void main(String[] args) { 
+    public static void main() { 
       B obj=new B(); 
       obj.meth();
       //System.out.print(obj.meth()); 
