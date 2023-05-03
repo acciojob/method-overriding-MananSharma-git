@@ -23,7 +23,7 @@ public class Main {
 
     public static void main(String[] args) { 
       B obj=new B(); 
-      obj.meth();
-      //System.out.print(obj.meth()); 
+      //obj.meth();
+      System.out.print(obj.meth()); 
     } 
 }
